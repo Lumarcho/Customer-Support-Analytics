@@ -8,29 +8,29 @@ The project uses synthetic data and is intended as a portfolio project to demons
 
 Customer support teams generate large amounts of operational data. Analysing this information can help organisations understand:
 
-Which types of enquiries occur most frequently
-How long cases take to resolve
-Which cases remain unresolved
-Where service bottlenecks may exist
+Which types of enquiries occur most frequently,
+How long cases take to resolve,
+Which cases remain unresolved,
+Where service bottlenecks may exist, and
 How customer satisfaction varies across support categories
 
 **Analysis Objectives**
 
 The project aims to:
 
-Analyse customer support volumes.
-Identify common enquiry categories.
-Calculate and compare resolution times.
-Identify unresolved or delayed cases.
-Examine customer satisfaction trends.
+Analyse customer support volumes,
+Identify common enquiry categories,
+Calculate and compare resolution times,
+Identify unresolved or delayed cases,
+Examine customer satisfaction trends, and
 Translate analytical findings into potential business improvements.
 
 **Technologies**
 
-Python
-Pandas
-Excel
-Jupyter Notebook
+Python,
+Pandas,
+Excel,
+Jupyter Notebook, and
 Data visualisation
 
 **Business Analysis Component**
