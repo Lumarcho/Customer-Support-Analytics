@@ -1,0 +1,31 @@
+case_id,category,status,resolution_hours,satisfaction
+CS001,Technical Support,Resolved,4,5
+CS002,Billing,Resolved,8,4
+CS003,Account Access,Resolved,3,5
+CS004,Technical Support,Unresolved,48,2
+CS005,Product Enquiry,Resolved,6,4
+CS006,Billing,Resolved,12,4
+CS007,Account Access,Resolved,2,5
+CS008,Technical Support,Resolved,18,3
+CS009,Product Enquiry,Resolved,5,4
+CS010,Billing,Unresolved,36,2
+CS011,Technical Support,Resolved,10,4
+CS012,Account Access,Resolved,4,5
+CS013,Product Enquiry,Resolved,7,4
+CS014,Billing,Resolved,9,4
+CS015,Technical Support,Unresolved,55,2
+CS016,Account Access,Resolved,3,5
+CS017,Product Enquiry,Resolved,6,4
+CS018,Billing,Resolved,14,3
+CS019,Technical Support,Resolved,8,4
+CS020,Account Access,Unresolved,30,2
+CS021,Product Enquiry,Resolved,5,5
+CS022,Billing,Resolved,11,4
+CS023,Technical Support,Resolved,16,3
+CS024,Account Access,Resolved,4,5
+CS025,Product Enquiry,Unresolved,42,2
+CS026,Billing,Resolved,7,4
+CS027,Technical Support,Resolved,9,4
+CS028,Account Access,Resolved,3,5
+CS029,Product Enquiry,Resolved,8,4
+CS030,Billing,Unresolved,40,2
