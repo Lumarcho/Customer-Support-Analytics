@@ -8,10 +8,14 @@ The project uses synthetic data and is intended as a portfolio project to demons
 
 Customer support teams generate large amounts of operational data. Analysing this information can help organisations understand:
 
-Which types of enquiries occur most frequently,
-How long cases take to resolve,
+Which types of enquiries occur most frequently
+
+How long cases take to resolve
+
 Which cases remain unresolved,
+
 Where service bottlenecks may exist, and
+
 How customer satisfaction varies across support categories
 
 **Analysis Objectives**
@@ -27,10 +31,14 @@ Translate analytical findings into potential business improvements.
 
 **Technologies**
 
-Python,
-Pandas,
-Excel,
-Jupyter Notebook, and
+Python
+
+Pandas
+
+Data Analysis
+
+CSV
+
 Data visualisation
 
 **Business Analysis Component**
@@ -40,9 +48,25 @@ The analysis does not focus only on producing charts. The objective is to connec
 Example questions include:
 
 What categories generate the highest support demand?
+
 Where are resolution delays occurring?
+
 What operational changes could reduce delays?
+
 What information would management need to monitor service performance?
+
+For example, high volumes of a particular enquiry category could indicate an opportunity for:
+
+Process improvement
+
+Better customer communication
+
+Self-service options
+
+Staff training
+
+Improved system functionality
+
 
 **Portfolio Note**
 
